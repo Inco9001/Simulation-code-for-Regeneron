@@ -1,0 +1,19 @@
+Input:
+# Ball Mass: in Kg
+Ball initialVelocity: in m/s
+Ball launch Angle: in degrees
+Cone angle: in degrees
+Ball start yCoord:
+Ball start xCoord:
+# timeDuration:  in seconds
+numIterations:
+yFieldStrength:
+# xFieldStrength:
+
+Output:
+System Time | Speed in x, Speed y | position x, position y:
+System Time | Speed in x, Speed y | position x, position y:
+System Time | Speed in x, Speed y | position x, position y:
+:
+:
+:
